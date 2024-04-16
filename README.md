@@ -1,0 +1,1 @@
+A groundwork CNN trained using the Reptile meta learning framework from OpenAI. This project is focused on building a reliable few-shot recognition system for amputee patients sEMG signals, allowing for quick adaption to new bionic prosthetics. 
