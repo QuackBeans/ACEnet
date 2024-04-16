@@ -16,7 +16,7 @@ Firstly use *pip install -r requirements.txt* to install **requirements.txt**.
 
 Once you have the datasets organised and libraries downloaded, and the code has been updated to reflect the database destinations, you can run **ReptileCNN.py** to train the model using Reptile. The Meta-Learning framework is built in to this file.
 
-Note that there is already a selection of saved models in the **Final_Models** folder.
+Note that there is already a selection of saved models in the **Final_Models** folder, along with their respective training and validation data.
 
 ## Testing
 
