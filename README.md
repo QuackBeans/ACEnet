@@ -12,7 +12,7 @@ The Phase II test was included to see if the sample size makesa a difference to 
 
 # Usage
 
-Firstly use *pip install* to install **requirements.txt**.
+Firstly use *pip install -r requirements.txt* to install **requirements.txt**.
 
 Once you have the datasets organised and libraries downloaded, and the code has been updated to reflect the database destinations, you can run **ReptileCNN.py** to train the model using Reptile. The Meta-Learning framework is built in to this file.
 
