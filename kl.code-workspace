@@ -1,0 +1,92 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "NinaPro-Helper-Library",
+			"path": "NinaPro-Helper-Library"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"atomic": "cpp",
+			"cctype": "cpp",
+			"cmath": "cpp",
+			"compare": "cpp",
+			"concepts": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"exception": "cpp",
+			"initializer_list": "cpp",
+			"ios": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"iterator": "cpp",
+			"limits": "cpp",
+			"memory": "cpp",
+			"new": "cpp",
+			"ostream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"string": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"typeinfo": "cpp",
+			"utility": "cpp",
+			"xfacet": "cpp",
+			"xiosbase": "cpp",
+			"xlocale": "cpp",
+			"xlocinfo": "cpp",
+			"xlocnum": "cpp",
+			"xmemory": "cpp",
+			"xstddef": "cpp",
+			"xstring": "cpp",
+			"xtr1common": "cpp",
+			"xutility": "cpp",
+			"algorithm": "cpp",
+			"fstream": "cpp",
+			"iomanip": "cpp",
+			"sstream": "cpp",
+			"vector": "cpp",
+			"xlocmon": "cpp",
+			"xloctime": "cpp"
+		},
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "Newdbcon",
+				"database": "db_test",
+				"username": "root",
+				"password": "Crumpets61.",
+				"connectionTimeout": 60
+			},
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "uk44.siteground.eu",
+				"port": 3306,
+				"driver": "MySQL",
+				"username": "uxrngpjcbzdo3",
+				"name": "Panoptics_DB",
+				"database": "dbohkq5vlg3lax",
+				"password": "yv2agjaven38"
+			}
+		]
+	}
+}

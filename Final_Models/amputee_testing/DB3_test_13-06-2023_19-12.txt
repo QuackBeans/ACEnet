@@ -1,0 +1,79 @@
+
+
+Subject 1 Results
+Reptile Model Accuracy: 0.1737777143716812%
+Standard Model Accuracy: 0.11593826860189438%
+
+
+
+
+Subject 2 Results
+Reptile Model Accuracy: 0.19353775680065155%
+Standard Model Accuracy: 0.2103527933359146%
+
+
+
+
+Subject 3 Results
+Reptile Model Accuracy: 0.17877094447612762%
+Standard Model Accuracy: 0.11894785612821579%
+
+
+
+
+Subject 4 Results
+Reptile Model Accuracy: 0.16975508630275726%
+Standard Model Accuracy: 0.167292982339859%
+
+
+
+
+Subject 5 Results
+Reptile Model Accuracy: 0.10472226142883301%
+Standard Model Accuracy: 0.14062702655792236%
+
+
+
+
+Subject 6 Results
+Reptile Model Accuracy: 0.13139158487319946%
+Standard Model Accuracy: 0.14420711994171143%
+
+
+
+
+Subject 7 Results
+Reptile Model Accuracy: 0.14137794077396393%
+Standard Model Accuracy: 0.15093588829040527%
+
+
+
+
+Subject 8 Results
+Reptile Model Accuracy: 0.35062485933303833%
+Standard Model Accuracy: 0.2895543575286865%
+
+
+
+
+Subject 9 Results
+Reptile Model Accuracy: 0.2674501836299896%
+Standard Model Accuracy: 0.17858678102493286%
+
+
+
+
+Subject 10 Results
+Reptile Model Accuracy: 0.15144199132919312%
+Standard Model Accuracy: 0.13843058049678802%
+
+
+
+
+Subject 11 Results
+Reptile Model Accuracy: 0.19438840448856354%
+Standard Model Accuracy: 0.27947917580604553%
+
+
+
+Reptile achieved higher accuracy than the standard model on 6/11 occasions

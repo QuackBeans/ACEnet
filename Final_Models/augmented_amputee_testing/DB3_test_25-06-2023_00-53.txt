@@ -1,0 +1,79 @@
+
+
+Subject 1 Results
+Augmented Reptile Model Accuracy: 0.12345999479293823%
+Standard Reptile Model Accuracy: 0.17637141048908234%
+
+
+
+
+Subject 2 Results
+Augmented Reptile Model Accuracy: 0.16122651100158691%
+Standard Reptile Model Accuracy: 0.17210683226585388%
+
+
+
+
+Subject 3 Results
+Augmented Reptile Model Accuracy: 0.13314712047576904%
+Standard Reptile Model Accuracy: 0.18179702758789062%
+
+
+
+
+Subject 4 Results
+Augmented Reptile Model Accuracy: 0.1560191810131073%
+Standard Reptile Model Accuracy: 0.17273551225662231%
+
+
+
+
+Subject 5 Results
+Augmented Reptile Model Accuracy: 0.12696760892868042%
+Standard Reptile Model Accuracy: 0.11916222423315048%
+
+
+
+
+Subject 6 Results
+Augmented Reptile Model Accuracy: 0.14355987310409546%
+Standard Reptile Model Accuracy: 0.13553397357463837%
+
+
+
+
+Subject 7 Results
+Augmented Reptile Model Accuracy: 0.14416566491127014%
+Standard Reptile Model Accuracy: 0.13699720799922943%
+
+
+
+
+Subject 8 Results
+Augmented Reptile Model Accuracy: 0.1516151875257492%
+Standard Reptile Model Accuracy: 0.3480311334133148%
+
+
+
+
+Subject 9 Results
+Augmented Reptile Model Accuracy: 0.2018059343099594%
+Standard Reptile Model Accuracy: 0.2634370028972626%
+
+
+
+
+Subject 10 Results
+Augmented Reptile Model Accuracy: 0.15157611668109894%
+Standard Reptile Model Accuracy: 0.13923540711402893%
+
+
+
+
+Subject 11 Results
+Augmented Reptile Model Accuracy: 0.20209059119224548%
+Standard Reptile Model Accuracy: 0.2030075192451477%
+
+
+
+Augmented reptile model achieved higher accuracy than the standard reptile model on 4/11 occasions
